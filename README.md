@@ -5,10 +5,7 @@ It's also available on Colabs Notebook: https://drive.google.com/drive/folders/1
 
 ## Getting Started
 
-Clone the project and run on terminal
-```
-npm run start
-```
+Clone the project and open an editor!
 
 ## Built With
 
