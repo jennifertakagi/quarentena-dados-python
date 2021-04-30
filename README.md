@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jennifertakagi/quarentena-dados-python">
-    <img src="docs/logo.jpeg" alt="Logo" width="100" height="80">
+    <img src="docs/logo.jpeg" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">Quarentena Dados Alura - Pyhton</h3>
