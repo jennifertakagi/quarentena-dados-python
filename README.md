@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jennifertakagi/quarentena-dados-python">
-    <img src="docs/logo.jpeg" alt="Logo" width="80" height="80">
+    <img src="docs/logo.jpeg" alt="Logo" width="100" height="80">
   </a>
 
   <h3 align="center">Quarentena Dados Alura - Pyhton</h3>
@@ -63,8 +63,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a series of challenges with Alura about Data Science, using Python, Pandas, MathLab!
 
